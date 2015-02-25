@@ -3,13 +3,13 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.springframework.samples</groupId>
 	<artifactId>spring-petclinic</artifactId>
-	<version>1.0.0-clc</version>
+	<version>1.0.0-SNAPSHOT</version>
 
 	<name>petclinic</name>
 	<packaging>war</packaging>
 	<scm>
-		<connection>scm:git:https://github.com/cyrille-leclerc/spring-petclinic.git</connection>
-		<developerConnection>scm:git:https://github.com/cyrille-leclerc/spring-petclinic.git</developerConnection>
+		<connection>scm:git:https://github.com/cyrille-leclerc/rcv-petclinic.git</connection>
+		<developerConnection>scm:git:https://github.com/cyrille-leclerc/rcv-petclinic.git</developerConnection>
 	</scm>
 
 	<properties>
